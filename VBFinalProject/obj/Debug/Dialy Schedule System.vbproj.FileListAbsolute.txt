@@ -1,0 +1,4 @@
+C:\Users\E\Documents\Visual Studio 2012\Projects\Business Programming\VBFinalProject\VBFinalProject\bin\Debug\VBFinalProject.exe.config
+C:\Users\E\Documents\Visual Studio 2012\Projects\Business Programming\VBFinalProject\VBFinalProject\obj\Debug\VBFinalProject.exe
+C:\Users\E\Documents\Visual Studio 2012\Projects\Business Programming\VBFinalProject\VBFinalProject\obj\Debug\VBFinalProject.xml
+C:\Users\E\Documents\Visual Studio 2012\Projects\Business Programming\VBFinalProject\VBFinalProject\obj\Debug\VBFinalProject.pdb
