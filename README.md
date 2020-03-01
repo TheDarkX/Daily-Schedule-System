@@ -1,5 +1,6 @@
 # Daily Schedule System
-An offline schedule system built by VB.NET included daily, weekly & class schedules
+An offline schedule system built by VB.NET + Microsoft Access Database
+included daily, weekly & class schedules
 
 # Screenshot
 ![Alt text](/screenshots/Login.png?raw=true "MaiLoginnAbout")
